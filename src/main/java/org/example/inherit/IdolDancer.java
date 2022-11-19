@@ -12,6 +12,7 @@ public class IdolDancer extends Dancer {
     public void dance(){
         //super.dance();
         System.out.println("윙크를 갈깁니다.");
+        
     }
 
 
